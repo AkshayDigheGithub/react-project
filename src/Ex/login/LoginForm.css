@@ -1,0 +1,41 @@
+.dash-div {
+    margin-top: 15px;
+}
+
+.dash {
+    color: #fff111;
+    width: 41%;
+    top: 5px;
+    border: 1px solid grey;
+    float:left;
+    background-color: #000000;
+    position:relative;
+}
+
+.dash-or {
+    color: #999;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 15px;
+    margin: 0 18px;
+    text-transform: uppercase;
+    width: 8%;
+    float: left;
+}
+
+.mainForm {
+    margin: 10px;
+    background-color: #ffffff;
+}
+
+.input {
+    background: #fafafa;
+    border: 0px;
+    margin: 0px;
+    flex: 1 0 0px;
+    overflow: hidden;
+    color: #999;
+    font-size: 12px;
+    height: 36px;
+    left: 8px;
+}

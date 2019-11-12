@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+.ex-box {
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    margin-top: 10%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1, p {
+    font-family: 'Pacifico', cursive;
+}
