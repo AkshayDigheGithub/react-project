@@ -2,15 +2,19 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 // import ParentComponent from './parentComponent';
-import ExampleComponent from './Ex/Example';
+// import ExampleComponent from './Ex/Example';
+
+import DashboardComponent from './Ex/dashboard/Dashboard';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div>
+      <DashboardComponent />
 
-      <ExampleComponent/>
+      {/* <ExampleComponent/> */}
+
       {/* <ParentComponent className="App-header"/> */}
      
       {/* <header className="App-header">

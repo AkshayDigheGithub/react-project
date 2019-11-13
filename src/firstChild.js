@@ -1,7 +1,12 @@
 import React from 'react';
 
 const FirstChiild = () => {
-    return <p>I'm the 1st child!</p>;
+    return (
+        <div>
+            <h6>Elgibility Errors</h6>
+            <p></p>
+        </div>
+    );
 }
 
 export default FirstChiild;
